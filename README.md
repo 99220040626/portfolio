@@ -1,16 +1,86 @@
-# React + Vite
+MANYAM SIVA SANTHOSH KUMAR REDDY – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔹 About
 
-Currently, two official plugins are available:
+Hi! I’m Manyam Siva Santhosh Kumar Reddy, a Computer Engineering undergraduate passionate about Full-Stack Development, AI, and Scalable Systems.
+This repository hosts my professional portfolio website, built with React, Vite, and Framer Motion, showcasing my projects, skills, and resume.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔹 Features
 
-## React Compiler
+Fully React-based, modern SPA with smooth animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Light and dark mode toggle
 
-## Expanding the ESLint configuration
+Downloadable resume
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Project showcase with hover effects
+
+Responsive and mobile-friendly design
+
+Live deployment via GitHub Pages
+
+🔹 Technologies Used
+
+Frontend: React.js, HTML5, CSS3
+
+Backend (projects): Spring Boot, Node.js
+
+Database: MySQL
+
+Machine Learning: TensorFlow, Python
+
+Tools & Frameworks: Git, GitHub, VS Code, Framer Motion, Pandas, NumPy
+
+🔹 Live Demo
+
+Check the portfolio live here:
+🌐 https://99220040626.github.io/portfolio
+
+🔹 Projects
+
+E-Commerce Web Application
+Full-stack application using React, Spring Boot & MySQL with authentication and REST APIs.
+
+Thyroid Disease Detection System
+ANN model built with TensorFlow achieving 92% accuracy using SMOTE & regularization.
+
+🔹 Contact
+
+Email: sivasanthoshmanyam48@gmail.com
+
+LinkedIn: linkedin.com/in/manyam-siva-santhosh-kumar-reddy-297a9531b
+
+GitHub: github.com/99220040626
+
+🔹 How to Run Locally
+
+Clone the repo:
+
+git clone https://github.com/99220040626/portfolio.git
+cd portfolio
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+
+Open your browser at http://localhost:5173/
+
+🔹 Deployment
+
+This project is deployed using GitHub Pages:
+
+npm run deploy
+
+
+Live URL: https://99220040626.github.io/portfolio
+
+🔹 License
+
+This project is open-source and free to use.
