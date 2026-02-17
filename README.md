@@ -34,7 +34,7 @@ Tools & Frameworks: Git, GitHub, VS Code, Framer Motion, Pandas, NumPy
 🔹 Live Demo
 
 Check the portfolio live here:
-🌐 https://99220040626.github.io/portfolio
+🌐 https://99220040626.github.io/portfolio/
 
 🔹 Projects
 
